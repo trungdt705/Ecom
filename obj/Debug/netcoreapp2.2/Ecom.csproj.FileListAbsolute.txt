@@ -1,0 +1,14 @@
+/Users/mac/Documents/Tutorial/Csharp/Ecom/bin/Debug/netcoreapp2.2/Ecom.deps.json
+/Users/mac/Documents/Tutorial/Csharp/Ecom/bin/Debug/netcoreapp2.2/Ecom.runtimeconfig.json
+/Users/mac/Documents/Tutorial/Csharp/Ecom/bin/Debug/netcoreapp2.2/Ecom.runtimeconfig.dev.json
+/Users/mac/Documents/Tutorial/Csharp/Ecom/bin/Debug/netcoreapp2.2/Ecom.dll
+/Users/mac/Documents/Tutorial/Csharp/Ecom/bin/Debug/netcoreapp2.2/Ecom.pdb
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.csprojAssemblyReference.cache
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.RazorAssemblyInfo.cache
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.RazorAssemblyInfo.cs
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.AssemblyInfoInputs.cache
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.AssemblyInfo.cs
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.RazorTargetAssemblyInfo.cache
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.dll
+/Users/mac/Documents/Tutorial/Csharp/Ecom/obj/Debug/netcoreapp2.2/Ecom.pdb
